@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d812b1dc-0735-4fa1-a1a4-3a5cb2f59183",
+  "path": "golang-lint",
+  "path_key": "golang-lint",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

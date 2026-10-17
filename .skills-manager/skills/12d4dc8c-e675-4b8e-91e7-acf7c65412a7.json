@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "12d4dc8c-e675-4b8e-91e7-acf7c65412a7",
+  "path": "golang-project-layout",
+  "path_key": "golang-project-layout",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

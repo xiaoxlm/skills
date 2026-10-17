@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d7eb02dd-f226-431a-8a1e-8255e06b43a8",
+  "path": "daily-dev-report",
+  "path_key": "daily-dev-report",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

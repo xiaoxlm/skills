@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c4e2621d-5e92-4114-8bf3-e26f4346c8f2",
+  "path": "golang-naming",
+  "path_key": "golang-naming",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

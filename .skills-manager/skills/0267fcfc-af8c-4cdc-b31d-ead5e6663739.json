@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0267fcfc-af8c-4cdc-b31d-ead5e6663739",
+  "path": "hatch-pet",
+  "path_key": "hatch-pet",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

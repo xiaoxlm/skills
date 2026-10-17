@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "37e6d657-167f-4a7b-ad40-60d0d4d11af4",
+  "path": "golang-security",
+  "path_key": "golang-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

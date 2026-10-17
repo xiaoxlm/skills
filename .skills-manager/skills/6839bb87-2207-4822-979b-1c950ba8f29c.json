@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6839bb87-2207-4822-979b-1c950ba8f29c",
+  "path": "golang-error-handling",
+  "path_key": "golang-error-handling",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
